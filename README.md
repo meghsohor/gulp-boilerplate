@@ -5,7 +5,7 @@ HTML Boilerplate using the Gulp Task Runner (Live reload, Sass, Auto-prefixer)
   
 <p>Clone the repository and run the following command to download packages:</p>
 <code>npm install</code>
-<br>
+<p></p>
 
 
 <p>And finally run the following command and you are ready to go. Everything now change or add in html and scss files will be auto reloaded:</p>
